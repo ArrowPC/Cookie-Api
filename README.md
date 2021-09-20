@@ -8,12 +8,10 @@ $ npm install express
 $ node app.js
 ```
 
+
+## Example Response
 ```json
 {
     "cookie": "Your mind is creative, original and alert."
 }
 ```
-
-## License
-
-MIT
